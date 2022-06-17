@@ -1,0 +1,6 @@
+#Database Props Text
+#Wed May 25 21:10:16 KST 2022
+password=mysql
+jdbcUrl=jdbc\:mysql\://localhost\:3306/java
+driver-class=jdbc.mysql.jdbcapi.DrivaerSpy
+username=javauser
