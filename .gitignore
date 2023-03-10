@@ -1,0 +1,8 @@
+*.DS_Store
+bin/
+classes/
+.classpath
+.gitignore.swp
+*.class
+.project
+.settings/
